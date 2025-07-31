@@ -1,1 +1,7 @@
 project_id = "ytoumzloidipvybszbsd"
+
+[functions.get-weather]
+verify_jwt = true
+
+[functions.create-checkout]
+verify_jwt = true
